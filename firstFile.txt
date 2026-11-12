@@ -1,0 +1,10 @@
+este es mi primer archivo
+subiendolo a la rama
+git_1
+para luego hacer el commit
+todo esto tomandome un tiempo
+de comprender conceptos
+y también sirve mucho 
+para repasar todo 
+está sería la 9na linea
+y finalmente con 10 lineas de acuerdo
