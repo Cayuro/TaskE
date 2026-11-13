@@ -1,5 +1,5 @@
-este es mi primer archivo
-subiendolo a la rama
+este es mi primer archivo !!! Cambiando linea 1
+subiendolo a la rama      !!! Cambiando linea 2
 git_1
 para luego hacer el commit
 todo esto tomandome un tiempo
