@@ -3,8 +3,8 @@ subiendolo a la rama      !!! Cambiando linea 2
 git_1
 para luego hacer el commit
 todo esto tomandome un tiempo
-de comprender conceptos
+de comprender conceptos                          !!! step 20 another line
 y también sirve mucho modificando otra
 para repasar todo modificando linea
-está sería la 9na linea hermanazo
-y finalmente con 10 lineas de acuerdo mi hermano
+está sería la 9na linea hermanazo                !!! paso 19 2 lineas
+y finalmente con 10 lineas de acuerdo mi hermano !!! paso 19 2 lineas
